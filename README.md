@@ -25,4 +25,4 @@
 
 <h4>! No dudes en revisar todos mis repositorios ¡</h4>
 
-<p>Cualquier critica es aceotada con tal de mejorar , ya sea un fragmento de código de una aplicación en específico o cualquier otra consulta.</p>
+<p>Cualquier critica es aceptada con tal de mejorar , ya sea un fragmento de código de una aplicación en específico o cualquier otra consulta.</p>
